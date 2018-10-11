@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Welcome to Jekyll!
 date: 2018-10-11 12:48:43 +0000
 categories: []
