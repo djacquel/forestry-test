@@ -1,5 +1,7 @@
 ---
 title: test
 date: 2018-10-11 13:28:28 +0000
+color: "#762B2B"
 
 ---
+dfgdfgdfg
