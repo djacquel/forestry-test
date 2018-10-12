@@ -9,6 +9,8 @@ sections:
   label: KB manage
   create: documents
   match: "**/*"
+  templates:
+  - knowledge-base
 - type: jekyll-posts
   label: Posts
   create: all
