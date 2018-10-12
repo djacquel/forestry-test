@@ -31,6 +31,30 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+collections:
+
+  methods:
+    output: true   # every page in the collection will be created
+    isKB: true     # is part of Knowledge base
+    name: "Methods" # Print name used in titles, menus, ...
+    permalink: "/kb/:path/"
+  materials:
+    output: true
+    isKB: true
+    name: Materials
+    permalink: "/kb/:path/"
+  manage:
+    output: true
+    isKB: true
+    name: Manage
+    permalink: "/kb/:path/"
+
+  documentation:
+    output: true
+
+  events:
+    output: false
+
 defaults:
   -
     scope:
@@ -39,3 +63,4 @@ defaults:
       layout: post
 
   - { scope: { type: pages }, values: { layout: page } }
+
