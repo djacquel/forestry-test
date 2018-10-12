@@ -16,4 +16,5 @@ fields:
   label: color
   description: color desfription
 pages:
+- _posts/collection-item.md
 - _posts/2018-10-11-test.md
