@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: _manage
   label: KB manage
-  create: documents
+  create: all
   match: "**/*"
   templates:
   - knowledge-base
