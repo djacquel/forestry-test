@@ -13,3 +13,5 @@ fields:
   label: Creation date
   config:
     required: true
+pages:
+- _manage/kb-manage-first-document.md
