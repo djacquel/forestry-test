@@ -1,8 +1,6 @@
 ---
 kb_categories:
   methods:
-  - name: Yolo
-    slug: yololo
   - name: Chip Seals
     slug: chip-seals
   - name: Fog Tack and Spray Seals
@@ -11,6 +9,8 @@ kb_categories:
     slug: hot-and-warm-mix-asphalt
   - name: Crack & Joint Treatments
     slug: crack-joint-treatments
+  - name: Yolo
+    slug: yololo
   materials:
   - name: Asphalt Emulsions
     slug: asphalt-emulsions
